@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: portfolio
+description: My Personal webPage
+author: Aditya Gupta
+github: https://github.com/addyag93
+about: I am Researcher at University of Delhi. Currently 
+disqus_shortname: Personal Webpage
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -19,16 +19,16 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: #"https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/addyag93"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/addyag93"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: addyag93
   fb_appid: 1749788565247320
 
 urls:
@@ -36,10 +36,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://addyag93.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
